@@ -5,4 +5,6 @@ class ApplicationController < ActionController::Base
 
 	# ESTE CAMBIO INDICA QUE MAU ES PUTO Y HUELE A CACA
 
+	# este es otro cambio e indica, aparte de reafirmar lo anterior
+
 end
