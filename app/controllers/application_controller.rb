@@ -7,4 +7,7 @@ class ApplicationController < ActionController::Base
 
 	# este es otro cambio e indica, aparte de reafirmar lo anterior
 
+
+	# otro comentario
+
 end
